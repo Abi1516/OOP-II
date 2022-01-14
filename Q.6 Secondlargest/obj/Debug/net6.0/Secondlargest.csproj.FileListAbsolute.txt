@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\Secondlargest.exe
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\Secondlargest.deps.json
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\Secondlargest.runtimeconfig.json
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\Secondlargest.dll
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\ref\Secondlargest.dll
+C:\Users\Morning Star\Desktop\c#\Secondlargest\bin\Debug\net6.0\Secondlargest.pdb
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.dll
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\ref\Secondlargest.dll
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.pdb
+C:\Users\Morning Star\Desktop\c#\Secondlargest\obj\Debug\net6.0\Secondlargest.genruntimeconfig.cache

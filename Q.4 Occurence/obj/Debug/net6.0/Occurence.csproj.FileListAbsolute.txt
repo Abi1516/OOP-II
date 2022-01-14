@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\Occurence.exe
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\Occurence.deps.json
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\Occurence.runtimeconfig.json
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\Occurence.dll
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\ref\Occurence.dll
+C:\Users\Morning Star\Desktop\c#\Occurence\bin\Debug\net6.0\Occurence.pdb
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.dll
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\ref\Occurence.dll
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.pdb
+C:\Users\Morning Star\Desktop\c#\Occurence\obj\Debug\net6.0\Occurence.genruntimeconfig.cache

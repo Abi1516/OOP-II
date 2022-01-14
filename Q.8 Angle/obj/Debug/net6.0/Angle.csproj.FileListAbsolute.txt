@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\Angle.exe
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\Angle.deps.json
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\Angle.runtimeconfig.json
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\Angle.dll
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\ref\Angle.dll
+C:\Users\Morning Star\Desktop\c#\Angle\bin\Debug\net6.0\Angle.pdb
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.dll
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\ref\Angle.dll
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.pdb
+C:\Users\Morning Star\Desktop\c#\Angle\obj\Debug\net6.0\Angle.genruntimeconfig.cache

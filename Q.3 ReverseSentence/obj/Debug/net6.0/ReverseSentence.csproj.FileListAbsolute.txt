@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ReverseSentence.exe
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ReverseSentence.deps.json
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ReverseSentence.runtimeconfig.json
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ReverseSentence.dll
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ref\ReverseSentence.dll
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\bin\Debug\net6.0\ReverseSentence.pdb
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.dll
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ref\ReverseSentence.dll
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.pdb
+C:\Users\Morning Star\Desktop\c#\ReverseSentence\obj\Debug\net6.0\ReverseSentence.genruntimeconfig.cache
